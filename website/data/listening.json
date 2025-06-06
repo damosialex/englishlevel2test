@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Job Interview",
+    "description": "A listening exercise about a job interview conversation",
+    "audio_file": "job_interview.mp3",
+    "transcript": "Interviewer: Good morning, Ms. Johnson. Thank you for coming in today.\n\nCandidate: Good morning. Thank you for the opportunity to interview for this position.\n\nInterviewer: Could you start by telling us a bit about your previous experience?\n\nCandidate: Of course. I've been working in customer service for five years. In my current role, I handle customer inquiries, process orders, and resolve complaints. I've received recognition for my problem-solving skills and attention to detail.\n\nInterviewer: That's impressive. How do you handle difficult customers?\n\nCandidate: I believe in listening carefully to understand their concerns. I stay calm and professional, acknowledge their frustration, and focus on finding solutions. I've found that most customers appreciate being heard and respond well when I show genuine interest in resolving their issues.\n\nInterviewer: What would you say is your greatest strength?\n\nCandidate: I'd say my ability to stay organized under pressure. In my current role, we often have busy periods with multiple demands. I've developed effective systems for prioritizing tasks and meeting deadlines without compromising quality.\n\nInterviewer: And what about areas for improvement?\n\nCandidate: I'm working on developing my leadership skills. I've recently taken on more responsibility in training new team members, and I'm learning how to provide constructive feedback and guidance effectively.",
+    "questions": [
+      {
+        "question": "How many years of experience does the candidate have in customer service?",
+        "options": ["Three years", "Five years", "Seven years"],
+        "answer": "Five years"
+      },
+      {
+        "question": "What has the candidate received recognition for?",
+        "options": ["Leadership skills", "Problem-solving skills and attention to detail", "Time management"],
+        "answer": "Problem-solving skills and attention to detail"
+      },
+      {
+        "question": "How does the candidate handle difficult customers?",
+        "options": ["By transferring them to a manager", "By offering discounts", "By listening carefully and finding solutions"],
+        "answer": "By listening carefully and finding solutions"
+      },
+      {
+        "question": "What does the candidate consider to be her greatest strength?",
+        "options": ["Communication skills", "Staying organized under pressure", "Technical knowledge"],
+        "answer": "Staying organized under pressure"
+      },
+      {
+        "question": "What area is the candidate working to improve?",
+        "options": ["Leadership skills", "Computer skills", "Time management"],
+        "answer": "Leadership skills"
+      }
+    ],
+    "speaking_practice": {
+      "topic": "Describe a challenging situation at work or school and how you handled it",
+      "guidelines": [
+        "Prepare a 3-5 minute presentation",
+        "Include specific details about the situation",
+        "Explain the actions you took",
+        "Describe the outcome",
+        "Reflect on what you learned"
+      ],
+      "discussion_questions": [
+        "What skills are most important in handling workplace challenges?",
+        "How do you stay calm under pressure?",
+        "What resources or support systems do you rely on when facing difficulties?"
+      ]
+    }
+  },
+  {
+    "title": "Community Meeting",
+    "description": "A listening exercise about a local community meeting",
+    "audio_file": "community_meeting.mp3",
+    "transcript": "Chairperson: Good evening, everyone. Thank you for coming to this community meeting. We have several important items on our agenda tonight.\n\nFirst, I'd like to discuss the proposal for the new community garden. As you know, we've identified a vacant lot on Oak Street that would be perfect for this project. The council has agreed to provide initial funding of £5,000, but we'll need volunteers to help with the preparation and planting.\n\nResident 1: How much of the funding will go toward tools and materials?\n\nChairperson: We've allocated about £2,000 for tools and materials. The rest will be used for soil improvement, water systems, and purchasing plants and seeds.\n\nResident 2: I'm concerned about ongoing maintenance. Who will be responsible for the garden once it's established?\n\nChairperson: That's an excellent question. We're proposing to form a volunteer committee that will oversee the garden's maintenance. We'll create a schedule so that responsibilities are shared among committee members.\n\nResident 3: Will there be individual plots for residents, or will this be a shared garden?\n\nChairperson: The current plan is to have both. About half the space will be divided into individual plots that residents can apply for, and the other half will be a shared space for community use, including an area for children to learn about gardening.\n\nResident 1: When do you expect the project to begin?\n\nChairperson: We're hoping to start preparation work next month, with planting to begin in early spring. We'll be sending out a newsletter with more details and a call for volunteers next week.",
+    "questions": [
+      {
+        "question": "How much funding has the council agreed to provide for the community garden?",
+        "options": ["£2,000", "£5,000", "£10,000"],
+        "answer": "£5,000"
+      },
+      {
+        "question": "How much money is allocated for tools and materials?",
+        "options": ["£1,000", "£2,000", "£3,000"],
+        "answer": "£2,000"
+      },
+      {
+        "question": "Who will be responsible for maintaining the garden?",
+        "options": ["The council", "A volunteer committee", "Paid gardeners"],
+        "answer": "A volunteer committee"
+      },
+      {
+        "question": "What will the garden space be used for?",
+        "options": ["Only individual plots", "Only shared community space", "Both individual plots and shared space"],
+        "answer": "Both individual plots and shared space"
+      },
+      {
+        "question": "When is the project expected to begin?",
+        "options": ["Immediately", "Next month", "Next year"],
+        "answer": "Next month"
+      }
+    ],
+    "speaking_practice": {
+      "topic": "Discuss a community project or initiative you would like to see implemented in your area",
+      "guidelines": [
+        "Prepare a 3-5 minute presentation",
+        "Describe the project and its benefits",
+        "Explain why it's needed in your community",
+        "Discuss potential challenges and solutions",
+        "Suggest how community members could get involved"
+      ],
+      "discussion_questions": [
+        "What makes a community project successful?",
+        "How can we encourage more people to volunteer for community initiatives?",
+        "What are the most pressing needs in your local community?"
+      ]
+    }
+  },
+  {
+    "title": "Training Workshop",
+    "description": "A listening exercise about a workplace training workshop",
+    "audio_file": "training_workshop.mp3",
+    "transcript": "Trainer: Good morning, everyone. Welcome to today's workshop on effective communication in the workplace. My name is David Chen, and I'll be your trainer today.\n\nBefore we begin, let me outline what we'll cover. First, we'll discuss the importance of clear communication. Then, we'll explore different communication styles and how to adapt your approach for different situations. After the break, we'll practice active listening techniques and finish with some role-playing exercises.\n\nParticipant 1: Will we receive any materials to take away?\n\nTrainer: Yes, absolutely. I'll be providing a handbook with all the key points we cover today, plus some additional resources for further reading. You'll also receive a certificate of completion for your professional development records.\n\nParticipant 2: How long will the role-playing exercises take? I need to leave a bit early today.\n\nTrainer: The role-playing section will start at approximately 2:30 PM and last for about 45 minutes. If you need to leave early, I'd recommend participating in at least the first scenario, as it's quite valuable.\n\nParticipant 3: Will this workshop cover written communication as well as verbal?\n\nTrainer: That's a good question. Today's focus is primarily on verbal and non-verbal communication. We have a separate workshop on written communication scheduled for next month, which I'd encourage you to attend if that's of interest.\n\nNow, let's begin by discussing why effective communication is so crucial in the workplace. According to recent studies, poor communication is responsible for approximately 70% of workplace errors. This can lead to misunderstandings, decreased productivity, and even conflict between team members.",
+    "questions": [
+      {
+        "question": "What is the name of the trainer?",
+        "options": ["David Chen", "Michael Wong", "Sarah Johnson"],
+        "answer": "David Chen"
+      },
+      {
+        "question": "What will participants receive at the end of the workshop?",
+        "options": ["Money", "A handbook and certificate", "A promotion"],
+        "answer": "A handbook and certificate"
+      },
+      {
+        "question": "What time will the role-playing exercises begin?",
+        "options": ["1:30 PM", "2:30 PM", "3:30 PM"],
+        "answer": "2:30 PM"
+      },
+      {
+        "question": "What percentage of workplace errors are caused by poor communication, according to the trainer?",
+        "options": ["50%", "70%", "90%"],
+        "answer": "70%"
+      },
+      {
+        "question": "Does this workshop cover written communication?",
+        "options": ["Yes, in detail", "No, that's a separate workshop", "Only briefly"],
+        "answer": "No, that's a separate workshop"
+      }
+    ],
+    "speaking_practice": {
+      "topic": "Explain a skill you have learned and how it has been useful to you",
+      "guidelines": [
+        "Prepare a 3-5 minute presentation",
+        "Describe how you learned the skill",
+        "Explain why you decided to learn it",
+        "Give examples of how you've used it",
+        "Discuss how it has benefited you"
+      ],
+      "discussion_questions": [
+        "What makes someone a good communicator?",
+        "How has technology changed the way we communicate?",
+        "What communication skills do you think are most important in the workplace?"
+      ]
+    }
+  }
+]

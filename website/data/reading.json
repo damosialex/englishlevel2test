@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Flow Stores",
+    "content": "QUICK BUY\nWelcome to our new FLOW STORES\n\nQuick Buy is delighted to announce the arrival of our first ever Flow Store.\n\nAs soon as you register and enter a Flow Store, a bright new world opens up. A world where shopping is faster and more convenient than ever before. No more queuing at checkouts. No more searching for items. No more carrying heavy bags.\n\nHow does it work?\n1. Download our app and register your details\n2. Enter the store using your app\n3. Take what you want from the shelves\n4. Walk out\n\nOur advanced technology tracks what you take and automatically charges your account. It's that simple!",
+    "questions": [
+      {
+        "question": "What is the main purpose of this text?",
+        "options": [
+          "To explain how technology works",
+          "To advertise a new type of store",
+          "To criticize modern shopping methods"
+        ],
+        "answer": "To advertise a new type of store"
+      },
+      {
+        "question": "According to the text, what do customers need to do before using a Flow Store?",
+        "options": [
+          "Pay a membership fee",
+          "Download an app and register",
+          "Complete a training course"
+        ],
+        "answer": "Download an app and register"
+      },
+      {
+        "question": "What tone does the text use?",
+        "options": [
+          "Critical",
+          "Neutral",
+          "Promotional"
+        ],
+        "answer": "Promotional"
+      }
+    ]
+  },
+  {
+    "title": "The Perfect Future or the Perfect Nightmare?",
+    "content": "The perfect future\u2026\n\u2026or the perfect nightmare?\nArticle written by Jay Hawkes\n\nI've just been shown the future of shopping. Posh boutiques are history. Online is old hat. Old-fashioned high street shops are back!\n\nOld-fashioned with a twist, that is. I've been to see one of the new Flow Stores that are opening across the country. You walk in, take what you want, and walk out. No checkouts. No queues. No staff. Just cameras watching your every move and technology tracking what you pick up.\n\nSounds convenient, doesn't it? But at what cost? These stores eliminate jobs. They collect your personal data. They track your movements. Is this really the future we want?\n\nThe technology is impressive, I'll admit. But I can't help feeling we're giving up something important - human connection, privacy, and jobs - all for the sake of saving a few minutes at the checkout.",
+    "questions": [
+      {
+        "question": "What is the writer's attitude toward Flow Stores?",
+        "options": [
+          "Enthusiastic",
+          "Skeptical",
+          "Neutral"
+        ],
+        "answer": "Skeptical"
+      },
+      {
+        "question": "According to the writer, what are we giving up with this new technology?",
+        "options": [
+          "Money and time",
+          "Quality products",
+          "Human connection, privacy, and jobs"
+        ],
+        "answer": "Human connection, privacy, and jobs"
+      },
+      {
+        "question": "What text type is this?",
+        "options": [
+          "An advertisement",
+          "A news report",
+          "An opinion article"
+        ],
+        "answer": "An opinion article"
+      }
+    ]
+  },
+  {
+    "title": "People's Campaign for Shopping Justice",
+    "content": "People's Campaign for Shopping Justice\n\nMarch to Defend Jobs\n\nNO to Flow Shops\n\nNO to a world where you enter your local shop through a controlled-access door.\nNO to a world where your shopping is supervised by computer-controlled cameras.\nNO to a world where shop workers lose their jobs to technology.\n\nJOIN US\nSaturday, 15 June\n12:00 noon\nCity Centre\n\nDefend jobs! Defend privacy! Defend our communities!",
+    "questions": [
+      {
+        "question": "What is the main purpose of this text?",
+        "options": [
+          "To inform people about Flow Shops",
+          "To encourage people to join a protest",
+          "To explain how new technology works"
+        ],
+        "answer": "To encourage people to join a protest"
+      },
+      {
+        "question": "What concerns does the text express about Flow Shops?",
+        "options": [
+          "They are too expensive",
+          "They are difficult to use",
+          "They threaten jobs and privacy"
+        ],
+        "answer": "They threaten jobs and privacy"
+      },
+      {
+        "question": "What text type is this?",
+        "options": [
+          "A news article",
+          "A protest flyer",
+          "A job advertisement"
+        ],
+        "answer": "A protest flyer"
+      }
+    ]
+  }
+]

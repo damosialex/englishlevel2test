@@ -1,0 +1,237 @@
+[
+  {
+    "category": "Subject-Verb Agreement",
+    "description": "In English, the verb must agree with the subject in number (singular or plural).",
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Choose the correct verb form: Annie and her brothers _____ at school.",
+        "options": ["is", "are"],
+        "answer": "are",
+        "explanation": "When a subject is compound (Annie and her brothers), use a plural verb (are)."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Choose the correct verb form: Either my mother or my father _____ coming to the meeting.",
+        "options": ["is", "are"],
+        "answer": "is",
+        "explanation": "When subjects are joined by 'or' or 'either/or', the verb agrees with the subject closest to it."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Choose the correct verb form: The team _____ playing well this season.",
+        "options": ["is", "are"],
+        "answer": "is",
+        "explanation": "Collective nouns like 'team' take a singular verb when referring to the group as a single unit."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Choose the correct verb form: Each of the students _____ required to complete the assignment.",
+        "options": ["is", "are"],
+        "answer": "is",
+        "explanation": "When 'each' is used as a subject or in phrases like 'each of', use a singular verb."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Choose the correct verb form: The number of applicants _____ increasing every year.",
+        "options": ["is", "are"],
+        "answer": "is",
+        "explanation": "'The number of' takes a singular verb, while 'a number of' takes a plural verb."
+      }
+    ]
+  },
+  {
+    "category": "Verb Tenses",
+    "description": "Verb tenses show when an action takes place: in the past, present, or future.",
+    "exercises": [
+      {
+        "type": "fill-in-blank",
+        "question": "Yesterday, I _____ (go) to the cinema with my friends.",
+        "answer": "went",
+        "explanation": "Use the simple past tense for completed actions in the past. 'Go' becomes 'went' in the past tense."
+      },
+      {
+        "type": "fill-in-blank",
+        "question": "She _____ (work) at this company for five years now.",
+        "answer": "has worked",
+        "explanation": "Use the present perfect tense for actions that started in the past and continue to the present."
+      },
+      {
+        "type": "fill-in-blank",
+        "question": "By the time we arrived, the film _____ (start) already.",
+        "answer": "had started",
+        "explanation": "Use the past perfect tense for actions completed before another past action."
+      },
+      {
+        "type": "fill-in-blank",
+        "question": "This time next week, I _____ (sit) on a beach in Spain.",
+        "answer": "will be sitting",
+        "explanation": "Use the future continuous tense for actions that will be in progress at a specific time in the future."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Identify the sentence with consistent tense usage:",
+        "options": [
+          "Yesterday, I go to the shop and bought some milk.",
+          "Yesterday, I went to the shop and bought some milk.",
+          "Yesterday, I went to the shop and buy some milk."
+        ],
+        "answer": "Yesterday, I went to the shop and bought some milk.",
+        "explanation": "Maintain consistent tense throughout a sentence. Both verbs should be in the past tense."
+      }
+    ]
+  },
+  {
+    "category": "Punctuation",
+    "description": "Punctuation marks help clarify meaning and indicate how text should be read.",
+    "exercises": [
+      {
+        "type": "fill-in-blank",
+        "question": "Please buy the following items_____ bread_____ milk_____ eggs_____ and cheese.",
+        "answer": "Please buy the following items: bread, milk, eggs, and cheese.",
+        "explanation": "Use a colon to introduce a list and commas to separate items in the list."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Which sentence uses apostrophes correctly?",
+        "options": [
+          "The company's policy is to respect it's employees' rights.",
+          "The companys policy is to respect its employees rights.",
+          "The company's policy is to respect its employees' rights."
+        ],
+        "answer": "The company's policy is to respect its employees' rights.",
+        "explanation": "Use apostrophes for possession (company's, employees') but not for the possessive pronoun 'its'."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Which sentence uses quotation marks correctly?",
+        "options": [
+          "The manager said \"the meeting is cancelled\".",
+          "The manager said, \"The meeting is cancelled.\"",
+          "The manager said, the meeting is cancelled."
+        ],
+        "answer": "The manager said, \"The meeting is cancelled.\"",
+        "explanation": "Use quotation marks around direct speech, with a comma before the quotation and punctuation inside the quotation marks."
+      },
+      {
+        "type": "fill-in-blank",
+        "question": "Although it was raining_____ we still went for a walk.",
+        "answer": "Although it was raining, we still went for a walk.",
+        "explanation": "Use a comma after an introductory clause beginning with words like 'although', 'when', or 'if'."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Which sentence uses a semicolon correctly?",
+        "options": [
+          "I have a big test tomorrow; I can't go out tonight.",
+          "I have a big test tomorrow, I can't go out tonight.",
+          "I have a big test tomorrow; and I can't go out tonight."
+        ],
+        "answer": "I have a big test tomorrow; I can't go out tonight.",
+        "explanation": "Use a semicolon to join two related independent clauses without a coordinating conjunction."
+      }
+    ]
+  },
+  {
+    "category": "Active and Passive Voice",
+    "description": "In active voice, the subject performs the action. In passive voice, the subject receives the action.",
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Identify the sentence in passive voice:",
+        "options": [
+          "The chef prepared a delicious meal.",
+          "A delicious meal was prepared by the chef.",
+          "The chef is preparing a delicious meal."
+        ],
+        "answer": "A delicious meal was prepared by the chef.",
+        "explanation": "In passive voice, the subject (meal) receives the action, and the agent (chef) is introduced with 'by'."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Convert to passive voice: 'The company employs fifty people.'",
+        "options": [
+          "Fifty people are employed by the company.",
+          "The company is employing fifty people.",
+          "Fifty people employ the company."
+        ],
+        "answer": "Fifty people are employed by the company.",
+        "explanation": "To form passive voice, make the object (fifty people) the subject and use the verb 'be' + past participle."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Convert to active voice: 'The window was broken by the storm.'",
+        "options": [
+          "The window broke in the storm.",
+          "The storm broke the window.",
+          "The window is broken because of the storm."
+        ],
+        "answer": "The storm broke the window.",
+        "explanation": "To form active voice, make the agent (storm) the subject performing the action (broke)."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Identify the sentence in active voice:",
+        "options": [
+          "The application form must be completed by all candidates.",
+          "All candidates must complete the application form.",
+          "The application form is to be completed by all candidates."
+        ],
+        "answer": "All candidates must complete the application form.",
+        "explanation": "In active voice, the subject (candidates) performs the action (complete)."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Which sentence uses passive voice appropriately?",
+        "options": [
+          "The manager announced the changes yesterday.",
+          "The changes were announced by the manager yesterday.",
+          "Yesterday, the manager did announce the changes."
+        ],
+        "answer": "The changes were announced by the manager yesterday.",
+        "explanation": "Passive voice is appropriate when emphasizing the recipient of the action (the changes) rather than the doer."
+      }
+    ]
+  },
+  {
+    "category": "Modal Verbs",
+    "description": "Modal verbs (can, could, may, might, must, shall, should, will, would) express necessity, possibility, permission, or ability.",
+    "exercises": [
+      {
+        "type": "multiple-choice",
+        "question": "Choose the correct modal verb for ability: 'She _____ speak three languages fluently.'",
+        "options": ["can", "must", "should"],
+        "answer": "can",
+        "explanation": "Use 'can' to express ability or capability."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Choose the correct modal verb for obligation: 'You _____ report any accidents to the supervisor.'",
+        "options": ["might", "must", "could"],
+        "answer": "must",
+        "explanation": "Use 'must' to express obligation or necessity."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Choose the correct modal verb for advice: 'You _____ drink more water to stay hydrated.'",
+        "options": ["will", "should", "would"],
+        "answer": "should",
+        "explanation": "Use 'should' to give advice or recommendations."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Choose the correct modal verb for possibility: 'It _____ rain later today, so take an umbrella.'",
+        "options": ["might", "will", "must"],
+        "answer": "might",
+        "explanation": "Use 'might' to express possibility or uncertainty."
+      },
+      {
+        "type": "multiple-choice",
+        "question": "Choose the correct modal verb for polite request: '_____ you help me with this task, please?'",
+        "options": ["Can", "Must", "Will"],
+        "answer": "Can",
+        "explanation": "Use 'can' for polite requests asking for help or assistance."
+      }
+    ]
+  }
+]

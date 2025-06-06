@@ -1,0 +1,188 @@
+{
+  "academic": [
+    {
+      "word": "analysis",
+      "definition": "A detailed examination of something",
+      "example": "The researcher conducted a comprehensive analysis of the survey results.",
+      "variations": ["analyze", "analyzing", "analyzed", "analytical"]
+    },
+    {
+      "word": "approach",
+      "definition": "A way of dealing with something",
+      "example": "We need a different approach to solve this problem.",
+      "variations": ["approaching", "approached", "approaches"]
+    },
+    {
+      "word": "concept",
+      "definition": "An abstract idea or general notion",
+      "example": "The concept of democracy is widely accepted.",
+      "variations": ["conceptual", "conceptualize", "concepts"]
+    },
+    {
+      "word": "context",
+      "definition": "The circumstances that form the setting for an event, statement, or idea",
+      "example": "It's important to understand the historical context of the novel.",
+      "variations": ["contextual", "contextualize", "contexts"]
+    },
+    {
+      "word": "data",
+      "definition": "Facts and statistics collected for reference or analysis",
+      "example": "The research is based on data collected over five years.",
+      "variations": ["datum", "database"]
+    },
+    {
+      "word": "evaluate",
+      "definition": "To assess or judge the value or quality of something",
+      "example": "We need to evaluate the results of the experiment.",
+      "variations": ["evaluation", "evaluating", "evaluated", "evaluative"]
+    },
+    {
+      "word": "factor",
+      "definition": "A circumstance, fact, or influence that contributes to a result",
+      "example": "Cost is an important factor in making this decision.",
+      "variations": ["factors", "factoring", "factored"]
+    },
+    {
+      "word": "method",
+      "definition": "A particular procedure for accomplishing or approaching something",
+      "example": "This method of teaching has proven very effective.",
+      "variations": ["methodical", "methodology", "methods"]
+    },
+    {
+      "word": "principle",
+      "definition": "A fundamental truth or proposition that serves as the foundation for a system of belief",
+      "example": "The principle of equality is enshrined in our constitution.",
+      "variations": ["principled", "principles"]
+    },
+    {
+      "word": "research",
+      "definition": "The systematic investigation into and study of materials and sources",
+      "example": "She conducted extensive research before writing her book.",
+      "variations": ["researcher", "researching", "researched"]
+    }
+  ],
+  "professional": [
+    {
+      "word": "collaborate",
+      "definition": "To work jointly with others on an activity or project",
+      "example": "Our team will collaborate with the marketing department on this campaign.",
+      "variations": ["collaboration", "collaborative", "collaborating", "collaborated"]
+    },
+    {
+      "word": "implement",
+      "definition": "To put a decision, plan, or system into effect",
+      "example": "We will implement the new policy next month.",
+      "variations": ["implementation", "implementing", "implemented"]
+    },
+    {
+      "word": "agenda",
+      "definition": "A list of items to be discussed at a meeting",
+      "example": "The first item on the agenda is the budget review.",
+      "variations": ["agendas"]
+    },
+    {
+      "word": "budget",
+      "definition": "An estimate of income and expenditure for a set period of time",
+      "example": "The department has exceeded its annual budget.",
+      "variations": ["budgeting", "budgeted", "budgetary"]
+    },
+    {
+      "word": "deadline",
+      "definition": "The latest time or date by which something should be completed",
+      "example": "The project deadline is next Friday.",
+      "variations": ["deadlines"]
+    },
+    {
+      "word": "initiative",
+      "definition": "The ability to assess and initiate things independently",
+      "example": "She showed great initiative by starting the project without being asked.",
+      "variations": ["initiatives"]
+    },
+    {
+      "word": "negotiate",
+      "definition": "To try to reach an agreement by discussion",
+      "example": "We need to negotiate better terms for the contract.",
+      "variations": ["negotiation", "negotiating", "negotiated", "negotiator"]
+    },
+    {
+      "word": "objective",
+      "definition": "A goal or aim that efforts are directed towards",
+      "example": "Our main objective is to increase sales by 10%.",
+      "variations": ["objectives"]
+    },
+    {
+      "word": "strategy",
+      "definition": "A plan of action designed to achieve a long-term or overall aim",
+      "example": "The company's marketing strategy has been very successful.",
+      "variations": ["strategic", "strategies", "strategize"]
+    },
+    {
+      "word": "delegate",
+      "definition": "To entrust a task or responsibility to another person",
+      "example": "A good manager knows when to delegate tasks to team members.",
+      "variations": ["delegation", "delegating", "delegated"]
+    }
+  ],
+  "everyday": [
+    {
+      "word": "appreciate",
+      "definition": "To recognize the full worth of something",
+      "example": "I really appreciate your help with this project.",
+      "variations": ["appreciation", "appreciating", "appreciated", "appreciative"]
+    },
+    {
+      "word": "consider",
+      "definition": "To think carefully about something",
+      "example": "Please consider all options before making a decision.",
+      "variations": ["consideration", "considering", "considered", "considerable"]
+    },
+    {
+      "word": "develop",
+      "definition": "To grow or cause to grow and become more mature or advanced",
+      "example": "Children develop at different rates.",
+      "variations": ["development", "developing", "developed", "developer"]
+    },
+    {
+      "word": "establish",
+      "definition": "To set up or create something that will last",
+      "example": "They established a new business last year.",
+      "variations": ["establishment", "establishing", "established"]
+    },
+    {
+      "word": "generate",
+      "definition": "To produce or create something",
+      "example": "Solar panels generate electricity from sunlight.",
+      "variations": ["generation", "generating", "generated", "generator"]
+    },
+    {
+      "word": "indicate",
+      "definition": "To point out or show something",
+      "example": "The results indicate a positive trend.",
+      "variations": ["indication", "indicating", "indicated", "indicator"]
+    },
+    {
+      "word": "maintain",
+      "definition": "To keep in good condition or continue to have",
+      "example": "It's important to maintain regular exercise habits.",
+      "variations": ["maintenance", "maintaining", "maintained"]
+    },
+    {
+      "word": "occur",
+      "definition": "To happen or take place",
+      "example": "The accident occurred at the intersection.",
+      "variations": ["occurrence", "occurring", "occurred"]
+    },
+    {
+      "word": "significant",
+      "definition": "Important or notable",
+      "example": "There has been a significant improvement in her work.",
+      "variations": ["significance", "significantly"]
+    },
+    {
+      "word": "specific",
+      "definition": "Clearly defined or identified",
+      "example": "Please give me specific examples of what you mean.",
+      "variations": ["specifically", "specificity", "specifics"]
+    }
+  ]
+}
